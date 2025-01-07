@@ -26,7 +26,7 @@ Before starting, ensure the following are installed:
 ### 1. Clone the Repository
 Download the code to your local machine:
 ```bash```
-git clone https://github.com/your-username/portfolio-tracker.git
+git clone [https://github.com/your-username/portfolio-tracker.git](https://github.com/Vinayashreess/-Simple-Portfolio-Tracker-)
 cd portfolio-tracker
 ---------------------------------------------------------------------------
 2. Set Up a Virtual Environment (Optional)
